@@ -1,0 +1,1 @@
+GeoJSON data fetched from: http://eric.clst.org/tech/usgeojson/
